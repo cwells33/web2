@@ -6,3 +6,4 @@ Contributors guide
 ==================
 Just fork repo and send pull request
 
+Add more text
